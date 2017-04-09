@@ -1,0 +1,59 @@
+body { 
+background-color: #fff; 
+margin: 10px 10px 10px 10px; 
+padding: 6px 6px 6px 6px; 
+} 
+ 
+h1 { 
+font-family: 'Tangerine', fantasy; 
+font-size: 48px; 
+text-align: center; 
+text-shadow: 4px 4px 4px #aaa;
+line-height: 0.5em;
+} 
+ 
+h2 { 
+background-color: #eaeaea;
+padding: 5px 5px 5px 5px;
+font-size: 14px;
+font-family: monospace bold;
+} 
+
+p { 
+font-size: 13px; 
+font-family: monospace; 
+text-align: justify; 
+line-height: 1.5em;
+} 
+
+h6 { 
+background-color: #eaeaea; 
+padding: 10px 10px 10px 10px;
+font-size: cursive; 
+font-style: italic; 
+font-size: 14px; 
+text-align: center; 
+} 
+
+.list { 
+font-size: 13px; 
+font-family: monospace; 
+line-height: 1.5em;
+} 
+
+.image { 
+width: 300px; 
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 40px;
+padding: 10px 10px 40px 10px white; 
+} 
+  
+a:visited { 
+color: orange; 
+} 
+
+a:hover {
+  background-color: blue;
+}
